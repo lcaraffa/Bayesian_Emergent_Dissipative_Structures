@@ -106,28 +106,6 @@ These documents are **working papers** presenting theoretical propositions, not 
 > *A system that does not dissipate ends up contradicting itself.*
 
 
-
-## Final Word
-- What if some of our troubles were just structures that forgot to crystallize?
-  A worried mind running in circles, the same thoughts over and over — perhaps that's just entropy trapped with nowhere to go. A flow that never finds its riverbed.
-  The remedy? Find a good friend to talk to. Let the flow out. Vent about your problems, get it off your chest, let it all go. And if that person loves you, you'll both feel better — because listening is dissipation too. Shared entropy is lighter entropy.
-  -And a body growing where it shouldn't, cells multiplying instead of resting — perhaps that's forgetting how to let go. The old wisdom knew: walk, breathe, fast. Give your body permission to release what it no longer needs.
-  -Less input. More output. Trust the process.
-
-
-- Go TO BEDS 
-- Be self-supervised until noon — at least half the day, let your system run on its own priors. No external input needed. Your body knows how to learn from itself.
-- Go hiking while fasting. 🌄
-
-
-"Simplicity is the ultimate sophistication." — Leonardo da Vinci
-
-
-## Acknowledgments
-
-Big thanks to Yann, Jean-Yves, Julien, Frédéric, Jean-Philippe, Nicolas, my parents, my lovely wife Déborah, and Dorian my little 3-month-old dissipative structure ❤️
-And to all the people I've had the chance to interact with, who let me express my ideas — thank you for being the flow that helped these thoughts crystallize.
-
 ## Notes
 - Donnation for bootstraping the new entropy coin $0x3F : 
   - eth : 0x5664023c0de4d209a11f23978ef845ebe3e8b697
