@@ -39,9 +39,25 @@ Please read with appropriate caution.
 
 ## Documents
 
-[resume_hdr_en.md][resume_hdr_en.md]  : **Main paper** — Full introduction to the BEDS framework, establishing the mathematical isomorphism between thermodynamic free energy and variational free energy, the geodesic convergence conjecture, recursive emergence, and a concrete implementation of a solar-powered P2P network |
-[SDEB_preprint_HAL_en.md][SDEB_preprint_HAL_en.md]  : **Preprint for HAL archive** — Condensed version with formal definitions, propositions, and three open conjectures (Navier-Stokes, Gödel-Landauer, AI fragility)                                                                                                                          |
-[dissiper_pour_demontrer_en.md][dissiper_pour_demontrer_en.md] : **Speculative essay** — Explores a deep unification between Gödel's incompleteness theorem, Landauer's principle, and Prigogine's dissipative structures. Proposes that logical pathologies emerge when formal systems close upon themselves without dissipation                          |
+- 📘 **[Main paper](resume_hdr_en.md)**  
+  *Full introduction to the BEDS framework.*  
+  Establishes the mathematical isomorphism between **thermodynamic free energy**
+  and **variational free energy**, introduces the **geodesic convergence conjecture**,
+  **recursive emergence**, and presents a concrete implementation of a
+  **solar-powered P2P network**.
+
+- 📄 **[Preprint (HAL archive)](SDEB_preprint_HAL_en.md)**  
+  *Condensed formal version.*  
+  Includes precise definitions, propositions, and three open conjectures:
+  **Navier–Stokes**, **Gödel–Landauer**, and **AI fragility**.
+
+- 🧠 **[Speculative essay](dissiper_pour_demontrer_en.md)**  
+  *Conceptual and philosophical exploration.*  
+  Proposes a deep unification between **Gödel’s incompleteness theorem**,
+  **Landauer’s principle**, and **Prigogine’s dissipative structures**, arguing that
+  logical pathologies arise when formal systems close upon themselves without
+  dissipation.
+
 
 ---
 
