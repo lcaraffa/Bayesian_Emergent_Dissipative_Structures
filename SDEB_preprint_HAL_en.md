@@ -1,3 +1,11 @@
+---
+title: "BEDS : Bayesian Emergent Dissipative Structures"
+subtitle: "Toward a unification between logical incompleteness and thermodynamics of information"
+author: "Laurent Caraffa"
+date: "2026-01-03"
+status: "Working paper"
+---
+
 # Bayesian Emergent Dissipative Structures: A Unified Framework
 
 ## Introduction
