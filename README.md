@@ -29,7 +29,7 @@ Parts of the content were produced to externalize intuitions, vibecoded and gene
 
 The conjectures may be ambitious or dizzying, but they are shared as potential starting points for reflection. If this work has any value, it is for readers with sufficient expertise to critically assess, correct, or discard it.
 
-Except for resume_hdr.md (the main file in French), **ALL** content was generated using AI, based on intuitive reasoning.
+Many content was generated using AI, based on intuitive reasoning.
 
 
 Nothing in this repository should be interpreted as established theory.  
@@ -39,12 +39,9 @@ Please read with appropriate caution.
 
 ## Documents
 
-| File                            | Description                                                                                                                                                                                                                                                                               |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `resume_hdr_en.md`              | **Main paper** — Full introduction to the BEDS framework, establishing the mathematical isomorphism between thermodynamic free energy and variational free energy, the geodesic convergence conjecture, recursive emergence, and a concrete implementation of a solar-powered P2P network |
-| `SDEB_preprint_HAL_en.md`       | **Preprint for HAL archive** — Condensed version with formal definitions, propositions, and three open conjectures (Navier-Stokes, Gödel-Landauer, AI fragility)                                                                                                                          |
-| `dissiper_pour_demontrer_en.md` | **Speculative essay** — Explores a deep unification between Gödel's incompleteness theorem, Landauer's principle, and Prigogine's dissipative structures. Proposes that logical pathologies emerge when formal systems close upon themselves without dissipation                          |
-| `navier_stokes_sdeb_en.md`      | **Navier-Stokes reformulation** — Recasts the millennium regularity problem as a question of hierarchy termination: a singularity would correspond to an infinite cascade that never crystallizes                                                                                         |
+[resume_hdr_en.md][resume_hdr_en.md]  : **Main paper** — Full introduction to the BEDS framework, establishing the mathematical isomorphism between thermodynamic free energy and variational free energy, the geodesic convergence conjecture, recursive emergence, and a concrete implementation of a solar-powered P2P network |
+[SDEB_preprint_HAL_en.md][SDEB_preprint_HAL_en.md]  : **Preprint for HAL archive** — Condensed version with formal definitions, propositions, and three open conjectures (Navier-Stokes, Gödel-Landauer, AI fragility)                                                                                                                          |
+[dissiper_pour_demontrer_en.md][dissiper_pour_demontrer_en.md] : **Speculative essay** — Explores a deep unification between Gödel's incompleteness theorem, Landauer's principle, and Prigogine's dissipative structures. Proposes that logical pathologies emerge when formal systems close upon themselves without dissipation                          |
 
 ---
 
@@ -111,8 +108,8 @@ These documents are **working papers** presenting theoretical propositions, not 
   - eth : 0x5664023c0de4d209a11f23978ef845ebe3e8b697
   - dot : 5FCpi5qu4SoYqkXyroRcmKNBDZDfkEqRVMeFS5RJrhHaNt7y 
 - site : www.lcaraffa.net
-- contact : laurent.caraffa@proton.me
-- vibecoded with https://claude.ai/
+- contact : laurent.caraffa@ign.fr
+
 ## License
 
 CC-BY 4.0 International
