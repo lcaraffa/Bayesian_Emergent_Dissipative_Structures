@@ -5,6 +5,10 @@ author: "Laurent Caraffa"
 date: "January 2026"
 document_type: "Perspective / Essay"
 status: "Speculative — Not peer-reviewed"
+geometry: margin=3cm
+mainfont: "DejaVu Serif"
+monofont: "DejaVu Sans Mono"
+mathfont: "DejaVu Math TeX Gyre"
 license: "CC-BY 4.0"
 ---
 

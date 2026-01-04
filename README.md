@@ -123,6 +123,7 @@ These documents are **working papers** presenting theoretical propositions, not 
 - Donnation for bootstraping the new entropy coin $0x3F : 
   - eth : 0x5664023c0de4d209a11f23978ef845ebe3e8b697
   - dot : 5FCpi5qu4SoYqkXyroRcmKNBDZDfkEqRVMeFS5RJrhHaNt7y 
+  - x
 - site : www.lcaraffa.net
 - contact : laurent.caraffa@ign.fr
 

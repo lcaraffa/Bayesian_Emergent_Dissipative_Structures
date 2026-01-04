@@ -2,7 +2,7 @@
 title: "Structures Dissipatives Émergentes Bayésiennes"
 subtitle: "Esquisse d'une théorie de l'émergence sobre v:0x40"
 author: "Laurent Caraffa"
-date: "2026-01-02"
+date: "2026-01-03"
 pdf-engine: xelatex
 geometry: margin=3cm
 mainfont: "DejaVu Serif"
