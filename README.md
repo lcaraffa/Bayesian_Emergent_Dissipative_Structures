@@ -6,16 +6,18 @@
 
 ---
 
-## 📄 Documents
+## Documents
 
 | Document | Description |
 |----------|-------------|
 | [**BEDS_fondation.pdf**](BEDS_fondation.pdf) | Technical foundations: formal proofs, theorems, the Gödel-Landauer-Prigogine conjecture, mathematical derivations, and P2P architecture specifications |
-| [**BEDS_whitepaper.pdf**](BEDS_whitepaper.pdf) | Long-term vision: intuitions, analogies, philosophical implications, and roadmap for sustainable AI and collective learning systems |
+| [**BEDS_whitepaper.pdf**](BEDS_whitepaper.pdf) | Comprehensive framework: intuitions through the river metaphor, analogies across domains, philosophical implications, and roadmap for sustainable AI and collective learning systems |
+| [**why_the_universe_flows.pdf**](why_the_universe_flows.pdf) | Philosophical meditation: a speculative essay exploring the universe as a recursive dissipative structure, cosmological natural selection, and the emergence of order through flow |
+| [**beyond_proof_of_work.pdf**](beyond_proof_of_work.pdf) | Applied vision: a proposal for Proof-of-Convergence as a Bayesian alternative to energy-hungry cryptocurrencies, achieving 10⁶× efficiency through belief fusion rather than competitive hashing |
 
 ---
 
-## 📬 Contact
+## Contact
 
 Laurent Caraffa — Univ. Gustave Eiffel, IGN-ENSG, LaSTIG  
 laurent.caraffa@ign.fr
