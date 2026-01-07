@@ -17,6 +17,24 @@
 
 ---
 
+## Citation
+
+If you use this work, please cite it as:
+
+```bibtex
+@misc{caraffa2026bedsbayesianemergentdissipative,
+  title        = {BEDS: Bayesian Emergent Dissipative Structures},
+  author       = {Laurent Caraffa},
+  year         = {2026},
+  eprint       = {2601.02329},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CV},
+  url          = {https://arxiv.org/abs/2601.02329}
+}```
+
+
+---
+
 ## Contact
 
 Laurent Caraffa — Univ. Gustave Eiffel, IGN-ENSG, LaSTIG  
