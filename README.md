@@ -19,18 +19,22 @@
 
 ## Citation
 
-If you use this work, please cite it as:
-
+If you use this work BEDS_fondation.pdf, please cite : 
 ```bibtex
 @misc{caraffa2026bedsbayesianemergentdissipative,
-  title        = {BEDS: Bayesian Emergent Dissipative Structures},
-  author       = {Laurent Caraffa},
-  year         = {2026},
-  eprint       = {2601.02329},
-  archivePrefix= {arXiv},
-  primaryClass = {cs.CV},
-  url          = {https://arxiv.org/abs/2601.02329}
-}```
+  title={BEDS: Bayesian Emergent Dissipative Structures},
+  author={Laurent Caraffa},
+  year={2026},
+  eprint={2601.02329},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2601.02329}
+}
+```
+
+For other content in this repo, please cite
+[![DOI](https://zenodo.org/badge/1127115494.svg)](https://doi.org/10.5281/zenodo.18156131)
+thanks!!
 
 
 ---
